@@ -5,7 +5,7 @@
 Для сортировки книг по категориям используется библиотека lodash.
 
 
-[Посмотреть на GitHub Pages]()
+[Посмотреть на GitHub Pages](https://dmitriy-git.github.io/book-store-react/)
 
 Чтобы развернуть проект локально необходимо иметь установленные [Git](https://git-scm.com/) и [Node.js с NPM](https://nodejs.org/en/)
 
